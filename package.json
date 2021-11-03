@@ -42,7 +42,7 @@
     "rxjs": "^6.2.2",
     "tencentcloud-sdk-nodejs": "^3.0.63",
     "typescript": "^3.0.1",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@nestjs/testing": "^5.1.0",
